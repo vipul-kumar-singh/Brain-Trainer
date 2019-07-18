@@ -5,4 +5,8 @@
     <string name="done">Time\'s up!!</string>
     <string name="thirtySeconds">30s</string>
     <string name="initialScore">0/0</string>
+    <string name="go">Go!</string>
+    <string name="defaultRandomOption">14</string>
+    <string name="defaultRandomQuestion">31 +7</string>
+    <string name="play_again">Play Again</string>
 </resources>
